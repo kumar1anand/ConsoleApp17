@@ -102,10 +102,7 @@
             map.Add(4, 5);
             map.Add(2, 3);
             map.Add(3, 4);
-            map.Add(2, 3);
-            map.Add(3, 4);
-            map.Add(4, 5);
-            map.Add(4, 5);
+            map.Add(2, 3);          
             map.Add(5, 6);
             map.Add(6, 7);
             foreach (KeyValuePair<int,int> pair in map)
